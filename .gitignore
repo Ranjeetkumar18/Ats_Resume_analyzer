@@ -1,0 +1,20 @@
+.DS_Store
+
+.env/
+.env
+
+venv/
+__pycache__/
+
+
+.streamlit/
+
+# Datasets
+*.csv
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
